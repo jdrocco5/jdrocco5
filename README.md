@@ -2,7 +2,7 @@
 - 👀 I’m interested in: Game Design
 - 🌱 I’m currently learning: C#
 - 💞️ I’m looking to collaborate on: Music Composition
-- 📫 How to reach me: jdrocco5#9941 (Discord)
+- 📫 How to reach me: jdrocco5 (Discord)
 
 <!---
 jdrocco5/jdrocco5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
